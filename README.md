@@ -12,4 +12,4 @@
 		
 Также мы собрали [данные о погоде](https://github.com/Pash1i/andan_2023_project/blob/main/проект%20weather.ipynb) (там же смотри описание признаков) в дни активности паблика dying, чтобы проанализировать, что лучше предсказывает количество лайков на постах паблика: погода в Москве в день публикации или все-таки содержание поста. В это довольно трудно поверить, но содержание постов предсказывает количество лайков немного лучше. Машинное обучение лежит [здесь](https://github.com/Pash1i/andan_2023_project/blob/main/EDA_and_hypothesis_testing.ipynb).
 
-[Там же](https://github.com/Pash1i/andan_2023_project/blob/main/EDA_and_hypothesis_testing.ipynb) лежит визуальный анализ имеющихся данных и тестирование пары гипотез.![image](https://github.com/Pash1i/andan_2023_project/assets/98023367/9a3dd8de-2bc2-45d7-a5dc-100c6a50f8fd)
+[Там же](https://github.com/Pash1i/andan_2023_project/blob/main/EDA_and_hypothesis_testing.ipynb) лежит визуальный анализ имеющихся данных и тестирование пары гипотез.
